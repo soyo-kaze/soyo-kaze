@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Updating soon
+#### Till then visit my channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)
 
 <!--
 **soyo-kaze/soyo-kaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
