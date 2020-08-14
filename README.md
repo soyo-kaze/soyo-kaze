@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyo-kaze&layout=compact" alt="My GitHub langs">
 </p>
-<!--p align="center">  
+<br>
+<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/?username=soyo-kaze&show_icons=true" alt="My GitHub Stats">  
 </p>
 <!--
