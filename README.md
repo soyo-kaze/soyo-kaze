@@ -4,7 +4,7 @@
 
 <br>
 
- <img align="right" height="250" style="border-radius:250px" alt="GIF" src="pic.png" />
+ <img align="right" height="250" style="border-radius:250px" alt="GIF" src="pic2.png" />
  
  **Here's some info about me:**
  
