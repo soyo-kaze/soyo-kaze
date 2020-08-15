@@ -4,8 +4,10 @@
 
 <br>
 
- <img align="right" height="250" style="border-radius:250px" alt="GIF" src="pic.png" />**Here's some info about me: ** <br>
-
+ <img align="right" height="250" style="border-radius:250px" alt="GIF" src="pic.png" />
+ 
+ **Here's some info about me:**
+ 
 - <code><img height="14" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> DSC Lead (2020-21)
 - 🛠 in React, Python, Kotlin, Bootstrap, JavaScript
 - <code><img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png"></code> Visit my channel <a href="https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1"><code><img height="20" src="https://smgenz.me/media/icons/transparentSMG.png"></code></a>
