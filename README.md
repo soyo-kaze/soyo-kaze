@@ -5,6 +5,7 @@
 <br>
 
  <img align="right" height="250" style="border-radius:250px" alt="GIF" src="https://raw.githubusercontent.com/soyo-kaze/soyo-kaze/master/pic2.png" />
+ <br>
  
  **Here's some info about me:**
  
@@ -23,6 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="20" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code></span>
+<br>
 
 #### Till then visit my channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)<br>
 
