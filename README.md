@@ -1,5 +1,6 @@
-### Hi there 👋  I'm  Soyokaze <!--Updating soon--> 
+## Hi there 👋  I'm  Soyokaze <!--Updating soon--> 
 ---
+
 <a href="https://twitter.com/Soyokaz3"><img align="left" alt="Soyokaz3 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/sameer-aka-soyokaze/"><img align="left" alt="Sameer's LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br>
@@ -26,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="20" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code></span>
 <br>
 
-#### Till then visit my channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)<br>
+#### _Till then visit my channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)_<br>
 
 
 
