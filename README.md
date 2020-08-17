@@ -1,6 +1,5 @@
 ### Hi there 👋  I'm  Soyokaze <!--Updating soon--> 
-___
-
+---
 <a href="https://twitter.com/Soyokaz3"><img align="left" alt="Soyokaz3 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/sameer-aka-soyokaze/"><img align="left" alt="Sameer's LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br>
@@ -8,7 +7,7 @@ ___
  <img align="right" height="250" style="border-radius:250px" alt="GIF" src="https://raw.githubusercontent.com/soyo-kaze/soyo-kaze/master/pic2.png" />
  <br>
  
- **Here's some info about me:**
+ **🧐 Here's some info about me:**
  ---
 - <code><img height="14" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> DSC Lead (2020-21)
 - 🛠 in React, Python, Kotlin, Bootstrap, JavaScript
