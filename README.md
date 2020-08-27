@@ -1,4 +1,6 @@
-## Hi there 👋  I'm  Soyokaze <!--Updating soon--> <p > <img src="https://komarev.com/ghpvc/?username=soyo-kaze" alt="soyokaze" /> </p>
+## Hi there 👋  I'm  Soyokaze <!--Updating soon-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyo-kaze" alt="soyokaze" /> </p>
 
 <a href="https://twitter.com/Soyokaz3"><img align="left" alt="Soyokaz3 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/sameer-aka-soyokaze/"><img align="left" alt="Sameer's LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
