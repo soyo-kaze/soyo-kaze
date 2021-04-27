@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyo-kaze" alt="soyokaze" /> </p>
 
-<a href="https://twitter.com/Soyokaz3"><img align="left" alt="Soyokaz3 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/sameer-aka-soyokaze/"><img align="left" alt="Sameer's LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/Soyokaz3"><img align="left" alt="Soyokaz3 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>    <a href="https://www.linkedin.com/in/sameer-aka-soyokaze/"><img align="left" alt="Sameer's LinkdeIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://soyokaze.medium.com"><img align="left" alt="Sameer's Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
 <br>
 
@@ -12,7 +12,7 @@
  **🧐 Here's some info about me:**
 - <code><img height="14" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"></code> DSC Lead (2020-21)
 - 🛠 in React, Python, Kotlin, Bootstrap, JavaScript
-- <code><img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png"></code> Visit my channel <a href="https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1"><code><img height="20" src="https://smgenz.me/media/icons/transparentSMG.png"></code></a>
+- <code><img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png"></code> Visit my channel <a href="https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1"><code><img height="20" src="https://github.com/soyo-kaze/SMGenz/blob/21c69635de662e3b220a31967c42f811c27e9d6f/Media/img/full%20logo%20copy.png"></code></a>
 - 📫 How to reach me: [Soyokaz3 <code><img height="14" src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png"></code>](https://twitter.com/Soyokaz3) 
 
 <br>
@@ -24,10 +24,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="20" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code></span>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="20" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></span> <code><img height="20" src="https://img.icons8.com/color/452/travis-ci.png"></code></span>
 <br>
 
-#### _Till then visit my channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)_<br>
+#### _Till then visit my Twitch [KazeTech](https://www.twitch.tv/kazetech)_<br>
 
 
 
