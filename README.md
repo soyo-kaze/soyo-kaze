@@ -27,7 +27,10 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img height="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="30" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"></span>
+<img height="30" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg">
+<img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+
+</span>
 <br>
 
 #### _Till then visit my Twitch [KazeTech](https://www.twitch.tv/kazetech)_<br>
