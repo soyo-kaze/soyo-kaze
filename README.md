@@ -5,7 +5,7 @@
 
 <br>
 
- <img align="right" height="250" style="border-radius:250px" alt="GIF" src="https://raw.githubusercontent.com/soyo-kaze/soyo-kaze/master/pic2.png" />
+ <img align="right" height="250" style="border-radius:250px" alt="GIF" src="https://soyo-kaze.github.io/static/media/pic.88c97c08.png" />
  <br>
  
  **🧐 Here's some info about me:**
