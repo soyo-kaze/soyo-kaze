@@ -30,6 +30,7 @@
 <img height="30" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg">
 <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 <img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img height="30" src="https://avatars1.githubusercontent.com/u/5658226?v=3&s=400">
 </span>
 <br>
 
