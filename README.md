@@ -31,7 +31,9 @@
 <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 <img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 <img height="30" src="https://avatars1.githubusercontent.com/u/5658226?v=3&s=400">
- <img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img height="30" src="https://github.com/soyo-kaze/soyo-kaze/blob/7b49d3237bc0d5218c2cabf4cb6ba4151ea2bf06/some2.svg">
+
 </span>
 <br>
 
