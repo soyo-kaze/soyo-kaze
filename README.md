@@ -16,7 +16,7 @@
  **🧐 Here's some info about me:**
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Lead (2020-21)
 - 🛠 in React, Python, Kotlin, Bootstrap, JavaScript
-- 🔭 I’m currently working on [VotesApp](https://github.com/soyo-kaze/VotesApp), [blogSite](https://github.com/soyo-kaze/Next-blog-site), [AppsReHab](https://github.com/soyo-kaze/AppsReHab)
+- 🔭 I’m currently working on [Dummy data generator](https://github.com/soyo-kaze/dummy-data-generator), [JioSaavnDownloader extension](https://github.com/soyo-kaze/JioSaavnDownloader)
 - <img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png"> Visit my channel <a href="https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1"><img height="20" src="https://github.com/soyo-kaze/SMGenz/blob/21c69635de662e3b220a31967c42f811c27e9d6f/Media/img/full%20logo%20copy.png"></a>
 - 📫 How to reach me: [Soyokaz3 <img height="14" src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png">](https://twitter.com/Soyokaz3) 
 - 🔭  Soon my [portfolio](https://soyo-kaze.github.io)
